@@ -16,7 +16,7 @@ type ArtGridProps = {
   }
 }
 
-export function ArtGrid({ classData }: ArtGridProps) {
+export default function ArtGrid({ classData }: ArtGridProps) {
   const router = useRouter();
   const handleClick = (studentId: string) => {
     router.push(`/student/${studentId}`);

@@ -1,5 +1,6 @@
 import { data } from "@/app/data/data";
 import Image from "next/image";
+import Audio  from "@/app/components/audioRecording/audio";
 export default async function Student({ params }: { params: Promise<{ studentId: string }> }) {
   const { studentId } = await params;
   const students = data.find((student) => student.students.some((student) => student.studentId === studentId));
@@ -11,6 +12,7 @@ export default async function Student({ params }: { params: Promise<{ studentId:
     <section className="flex flex-col items-center min-h-screen sm:content-center">
       <div key={student.studentId} className="flex flex-col justify-center items-center min-h-screen">
         <Image className="rounded-lg" src={student.artPiece} alt="student art" width={500} height={500} />
+        <Audio audioUrl={student.audio} />
         <h1 className="text-2xl font-bold">{student.name}</h1>
       </div>
     </section>

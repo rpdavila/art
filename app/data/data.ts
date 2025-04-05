@@ -3,62 +3,62 @@ import { StaticImageData } from 'next/image';
 
 // Static imports for all images
 // class 4a1
-import AmyArt from '../public/4a-1/Amy.jpg';
-import ArianArt from '../public/4a-1/Arian.jpg';
-import CatalinArt from '../public/4a-1/Catalin.jpg';
-import DariaArt from '../public/4a-1/Daria.jpg';
-import DavidArt from '../public/4a-1/David.jpg';
-import DianaArt from '../public/4a-1/Diana.jpg';
-import EnamArt from '../public/4a-1/Enam.jpg';
-import KhalidArt from '../public/4a-1/Khalid.jpg';
-import LamiaArt from '../public/4a-1/Lamia.jpg';
-import MasenArt from '../public/4a-1/Masen.jpg';
+import AmyArt from '../../public/images/4a-1/Amy.jpg';
+import ArianArt from '../../public/images/4a-1/Arian.jpg';
+import CatalinArt from '../../public/images/4a-1/Catalin.jpg';
+import DariaArt from '../../public/images/4a-1/Daria.jpg';
+import DavidArt from '../../public/images/4a-1/David.jpg';
+import DianaArt from '../../public/images/4a-1/Diana.jpg';
+import EnamArt from '../../public/images/4a-1/Enam.jpg';
+import KhalidArt from '../../public/images/4a-1/Khalid.jpg';
+import LamiaArt from '../../public/images/4a-1/Lamia.jpg';
+import MasenArt from '../../public/images/4a-1/Masen.jpg';
 
-//class 4a2
-import Milan from '../public/4a-2/Milan.jpg';
-import Milana from '../public/4a-2/Milana.jpg';
-import Milena from '../public/4a-2/Milena.jpg';
-import Miriam from '../public/4a-2/Miriam.jpg';
-import Mustafa from '../public/4a-2/Mustafa.jpg';
-import Nele from '../public/4a-2/Nele.jpg';
-import Noah from '../public/4a-2/Noah.jpg';
-import Reyana from '../public/4a-2/Reyana.jpg';
-import Sebastian from '../public/4a-2/Sebastian.jpg';
-import Sofia from '../public/4a-2/Sofia.jpg';
-import Tyler from '../public/4a-2/Tyler.jpg';
-import Zehra from '../public/4a-2/Zehra.jpg';
+// class 4a2
+import Milan from '../../public/images/4a-2/Milan.jpg';
+import Milana from '../../public/images/4a-2/Milana.jpg';
+import Milena from '../../public/images/4a-2/Milena.jpg';
+import Miriam from '../../public/images/4a-2/Miriam.jpg';
+import Mustafa from '../../public/images/4a-2/Mustafa.jpg';
+import Nele from '../../public/images/4a-2/Nele.jpg';
+import Noah from '../../public/images/4a-2/Noah.jpg';
+import Reyana from '../../public/images/4a-2/Reyana.jpg';
+import Sebastian from '../../public/images/4a-2/Sebastian.jpg';
+import Sofia from '../../public/images/4a-2/Sofia.jpg';
+import Tyler from '../../public/images/4a-2/Tyler.jpg';
+import Zehra from '../../public/images/4a-2/Zehra.jpg';
 
-//4c-1
-import Abdelhakim from '../public/4c-1/Abdelhakim.jpg';
-import Baturay from '../public/4c-1/Baturay.jpg';
-import Efekan from '../public/4c-1/Efekan.jpg';
-import Elsie from '../public/4c-1/Elsie.jpg';
-import Emilia from '../public/4c-1/Emilia.jpg';
-import EmmaK from '../public/4c-1/Emma-K.jpg';
-import EmmaR from '../public/4c-1/Emma-R.jpg';
-import Fabio from '../public/4c-1/Fabio.jpg';
-import Finn from '../public/4c-1/Fabio.jpg';
+// class 4c-1
+import Baturay from '../../public/images/4c-1/Baturay.jpg';
+import Abdelhakim from '../../public/images/4c-1/Abdelhakim.jpg';
+import Elsie from '../../public/images/4c-1/Elsie.jpg';
+import Efekan from '../../public/images/4c-1/Efekan.jpg';
+import EmmaK from '../../public/images/4c-1/Emma-K.jpg';
+import Emilia from '../../public/images/4c-1/Emilia.jpg';
+import EmmaR from '../../public/images/4c-1/Emma-R.jpg';
+import Fabio from '../../public/images/4c-1/Fabio.jpg';
+import Finn from '../../public/images/4c-1/Finn.jpg';
 
-//4c-2
-import Gülvera from '../public/4c-2/Gülvera.jpg';
-import Hazar from '../public/4c-2/Hazar.jpg';
-import Hira_Nur from '../public/4c-2/Hira_Nur.jpg';
-import Jolina from '../public/4c-2/Jolina.jpg';
-import Julie from '../public/4c-2/Julie.jpg';
-import Kerem from '../public/4c-2/Kerem.jpg';
-import Lara from '../public/4c-2/Lara.jpg';
-import Leila from '../public/4c-2/Leila.jpg';
-import Lukas from '../public/4c-2/Lukas.jpg';
+// class 4c-2
+import Gülvera from '../../public/images/4c-2/Gülvera.jpg';
+import Hazar from '../../public/images/4c-2/Hazar.jpg';
+import Hira_Nur from '../../public/images/4c-2/Hira_Nur.jpg';
+import Jolina from '../../public/images/4c-2/Jolina.jpg';
+import Julie from '../../public/images/4c-2/Julie.jpg';
+import Kerem from '../../public/images/4c-2/Kerem.jpg';
+import Lara from '../../public/images/4c-2/Lara.jpg';
+import Leila from '../../public/images/4c-2/Leila.jpg';
+import Lukas from '../../public/images/4c-2/Lukas.jpg';
 
-//4c-3
-import Manhal from '../public/4c-3/Manhal.jpg';
-import Marlon from '../public/4c-3/Marlon.jpg';
-import Melih from '../public/4c-3/Melih.jpg';
-import Mert from '../public/4c-3/Mert.jpg';
-import Miray from '../public/4c-3/Miray.jpg';
-import Nora from '../public/4c-3/Nora.jpg';
-import Öykü from '../public/4c-3/Öykü.jpg';
-import Sophia from '../public/4c-3/Sophia.jpg';
+// class 4c-3
+import Manhal from '../../public/images/4c-3/Manhal.jpg';
+import Marlon from '../../public/images/4c-3/Marlon.jpg';
+import Melih from '../../public/images/4c-3/Melih.jpg';
+import Mert from '../../public/images/4c-3/Mert.jpg';
+import Miray from '../../public/images/4c-3/Miray.jpg';
+import Nora from '../../public/images/4c-3/Nora.jpg';
+import Öykü from '../../public/images/4c-3/Öykü.jpg';
+import Sophia from '../../public/images/4c-3/Sophia.jpg';
 
 interface Students {
   name: string;
@@ -128,7 +128,7 @@ export const data: ClassData[] = [
         name: 'Lamia',
         studentId: '9',
         artPiece: LamiaArt,
-        audio: 'www.audio.com',
+        audio: '/audio/4a-1/lamia-4a.mp3',
       },
       {
         name: 'Masen',
@@ -143,75 +143,75 @@ export const data: ClassData[] = [
     students: [
       {
         name: 'Milan',
-        studentId: '6',
+        studentId: '11',
         artPiece: Milan,
         audio: 'www.olivia-audio.com',
       },
       {
         name: 'Milana',
-        studentId: '7',
+        studentId: '12',
         artPiece: Milana,
         audio: 'www.lucas-audio.com',
       },
       {
         name: 'Milena',
-        studentId: '8',
+        studentId: '13',
         artPiece: Milena,
         audio: 'www.ava-audio.com',
       },
       {
         name: 'Miriam',
-        studentId: '9',
+        studentId: '14',
         artPiece: Miriam,
         audio: 'www.ethan-audio.com',
       },
       {
         name: 'Mustafa',
-        studentId: '10',
+        studentId: '15',
         artPiece: Mustafa,
         audio: 'www.isabella-audio.com',
       },
       {
         name: 'Nele',
-        studentId: '11',
+        studentId: '16',
         artPiece: Nele,
-        audio: ''
+        audio: 'www.mia-audio.com',
       },
       {
         name: 'Noah',
-        studentId: '12',
+        studentId: '17',
         artPiece: Noah,
-        audio: '',
+        audio: 'www.mason-audio.com',
       },
       {
         name: 'Reyana',
-        studentId: '13',
+        studentId: '18',
         artPiece: Reyana,
-        audio: '',
+        audio: 'www.mia-audio.com',
       },
       {
         name: 'Sebastian',
-        studentId: '14',
+        studentId: '19',
         artPiece: Sebastian,
-        audio: '',
+        audio: 'www.mason-audio.com',
       },
       {
         name: 'Sofia',
-        studentId: '15',
+        studentId: '20',
         artPiece: Sofia,
-        audio: '',
+        audio: 'www.mia-audio.com',
       },
       {
         name: 'Tyler',
-        studentId: '16',
+        studentId: '21',
         artPiece: Tyler,
-        audio: '',
+        audio: 'www.mia-audio.com',
       },
       {
         name: 'Zehra',
-        studentId: '17',
+        studentId: '22',
         artPiece: Zehra,
-        audio: '',
+        audio: 'www.mia-audio.com',
       }
     ],
   },
@@ -220,55 +220,55 @@ export const data: ClassData[] = [
     students: [
       {
         name: 'Abdelhakim',
-        studentId: '11',
+        studentId: '23',
         artPiece: Abdelhakim,
         audio: 'www.mia-audio.com',
       },
       {
         name: 'Baturay',
-        studentId: '12',
+        studentId: '24',
         artPiece: Baturay,
         audio: 'www.mason-audio.com',
       },
       {
         name: 'Efekan',
-        studentId: '13',
+        studentId: '25',
         artPiece: Efekan,
         audio: 'www.mia-audio.com',
       },
       {
         name: 'Elsie',
-        studentId: '14',
+        studentId: '26',
         artPiece: Elsie,
-        audio: 'www.mason-audio.com',
+        audio: '/audio/4c-1/Elsie4c.mp3',
       },
       {
         name: 'Emilia',
-        studentId: '15',
+        studentId: '27',
         artPiece: Emilia,
         audio: 'www.mia-audio.com',
       },
       {
         name: 'Emma K',
-        studentId: '16',
+        studentId: '28',
         artPiece: EmmaK,
         audio: 'www.mason-audio.com',
       },
       {
         name: 'Emma R',
-        studentId: '17',
+        studentId: '29',
         artPiece: EmmaR,
         audio: 'www.mia-audio.com',
       },
       {
         name: 'Fabio',
-        studentId: '18',
+        studentId: '30',
         artPiece: Fabio,
-        audio: 'www.mason-audio.com',
+        audio: '/audio/4c-1/fabio4c.mp3',
       },
       {
         name: 'Finn',
-        studentId: '19',
+        studentId: '31',
         artPiece: Finn,
         audio: 'www.mia-audio.com',
       },
@@ -279,55 +279,55 @@ export const data: ClassData[] = [
     students: [
       {
         name: 'Gülvera',
-        studentId: '20',
+        studentId: '32',
         artPiece: Gülvera,
         audio: 'www.mia-audio.com'
       },
       {
         name: 'Hazar',
-        studentId: '21',
+        studentId: '33',
         artPiece: Hazar,
         audio: 'www.mason-audio.com'
       },
       {
         name: 'Hira Nur',
-        studentId: '22',
+        studentId: '34',
         artPiece: Hira_Nur,
         audio: 'www.mia-audio.com'
       },
       {
         name: 'Jolina',
-        studentId: '23',
+        studentId: '35',
         artPiece: Jolina,
-        audio: 'www.mason-audio.com'
+        audio: '/audio/4c-2/joline4c.mp3'
       },
       {
         name: 'Julie',
-        studentId: '24',
+        studentId: '36',
         artPiece: Julie,
         audio: 'www.mia-audio.com'
       },
       {
         name: 'Kerem',
-        studentId: '25',
+        studentId: '37',
         artPiece: Kerem,
         audio: 'www.mason-audio.com'
       },
       {
         name: 'Lara',
-        studentId: '26',
+        studentId: '38',
         artPiece: Lara,
         audio: 'www.mia-audio.com'
       },
       {
         name: 'Leila',
-        studentId: '27',
+        studentId: '39',
         artPiece: Leila,
         audio: 'www.mason-audio.com'
       },
       {
         name: 'Lukas',
-        studentId: '28',
+        studentId: '40',
         artPiece: Lukas,
         audio: 'www.mia-audio.com'
       },
@@ -338,49 +338,49 @@ export const data: ClassData[] = [
     students: [
       {
         name: 'Manhal',
-        studentId: '29',
+        studentId: '41',
         artPiece: Manhal,
         audio: 'www.mia-audio.com'
       },
       {
         name: 'Marlon',
-        studentId: '30',
+        studentId: '42',
         artPiece: Marlon,
         audio: 'www.mason-audio.com'
       },
       {
         name: 'Melih',
-        studentId: '31',
+        studentId: '43',
         artPiece: Melih,
         audio: 'www.mia-audio.com'
       },
       {
         name: 'Mert',
-        studentId: '32',
+        studentId: '44',
         artPiece: Mert,
         audio: 'www.mason-audio.com'
       },
       {
         name: 'Miray',
-        studentId: '33',
+        studentId: '45',
         artPiece: Miray,
         audio: 'www.mia-audio.com'
       },
       {
         name: 'Nora',
-        studentId: '34',
+        studentId: '46',
         artPiece: Nora,
         audio: 'www.mason-audio.com'
       },
       {
         name: 'Öykü',
-        studentId: '35',
+        studentId: '47',
         artPiece: Öykü,
         audio: 'www.mia-audio.com'
       },
       {
         name: 'Sophia',
-        studentId: '36',
+        studentId: '48',
         artPiece: Sophia,
         audio: 'www.mason-audio.com'
       },

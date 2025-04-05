@@ -1,7 +1,7 @@
 
 import { data } from "@/app/data/data"
 //components
-import { ArtGrid } from "@/app/components/artGrid/artGrid";
+import ArtGrid from "@/app/components/artGrid/artGrid";
 export default async function ClassRoom({
   params
 }: {
