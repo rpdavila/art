@@ -6,7 +6,7 @@ export default function Audio({ audioUrl }: { audioUrl: string }) {
   return (
     <>
       <audio
-        controls        
+        controls
         style={{ width: '100%', height: '50px' }}
       >
         <source src={audioUrl} type="audio/mpeg" />
