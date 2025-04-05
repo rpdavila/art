@@ -299,7 +299,7 @@ export const data: ClassData[] = [
         name: 'Jolina',
         studentId: '35',
         artPiece: Jolina,
-        audio: '/audio/4c-2/joline4c.mp3'
+        audio: '/audio/4c-2/Joline4c.mp3'
       },
       {
         name: 'Julie',
