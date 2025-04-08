@@ -2,63 +2,57 @@
 import { StaticImageData } from 'next/image';
 
 // Static imports for all images
-// class 4a1
-import AmyArt from '../../public/images/4a-1/Amy.jpg';
-import ArianArt from '../../public/images/4a-1/Arian.jpg';
-import CatalinArt from '../../public/images/4a-1/Catalin.jpg';
-import DariaArt from '../../public/images/4a-1/Daria.jpg';
-import DavidArt from '../../public/images/4a-1/David.jpg';
-import DianaArt from '../../public/images/4a-1/Diana.jpg';
-import EnamArt from '../../public/images/4a-1/Enam.jpg';
-import KhalidArt from '../../public/images/4a-1/Khalid.jpg';
-import LamiaArt from '../../public/images/4a-1/Lamia.jpg';
-import MasenArt from '../../public/images/4a-1/Masen.jpg';
+// class 4a
+import AmyArt from '../../public/images/4a/Amy.jpg';
+import ArianArt from '../../public/images/4a/Arian.jpg';
+import CatalinArt from '../../public/images/4a/Catalin.jpg';
+import DariaArt from '../../public/images/4a/Daria.jpg';
+import DavidArt from '../../public/images/4a/David.jpg';
+import DianaArt from '../../public/images/4a/Diana.jpg';
+import EnamArt from '../../public/images/4a/Enam.jpg';
+import KhalidArt from '../../public/images/4a/Khalid.jpg';
+import LamiaArt from '../../public/images/4a/Lamia.jpg';
+import MasenArt from '../../public/images/4a/Masen.jpg';
+import Milan from '../../public/images/4a/Milan.jpg';
+import Milana from '../../public/images/4a/Milana.jpg';
+import Milena from '../../public/images/4a/Milena.jpg';
+import Miriam from '../../public/images/4a/Miriam.jpg';
+import Mustafa from '../../public/images/4a/Mustafa.jpg';
+import Nele from '../../public/images/4a/Nele.jpg';
+import Noah from '../../public/images/4a/Noah.jpg';
+import Reyana from '../../public/images/4a/Reyana.jpg';
+import Sebastian from '../../public/images/4a/Sebastian.jpg';
+import Sofia from '../../public/images/4a/Sofia.jpg';
+import Tyler from '../../public/images/4a/Tyler.jpg';
+import Zehra from '../../public/images/4a/Zehra.jpg';
 
-// class 4a2
-import Milan from '../../public/images/4a-2/Milan.jpg';
-import Milana from '../../public/images/4a-2/Milana.jpg';
-import Milena from '../../public/images/4a-2/Milena.jpg';
-import Miriam from '../../public/images/4a-2/Miriam.jpg';
-import Mustafa from '../../public/images/4a-2/Mustafa.jpg';
-import Nele from '../../public/images/4a-2/Nele.jpg';
-import Noah from '../../public/images/4a-2/Noah.jpg';
-import Reyana from '../../public/images/4a-2/Reyana.jpg';
-import Sebastian from '../../public/images/4a-2/Sebastian.jpg';
-import Sofia from '../../public/images/4a-2/Sofia.jpg';
-import Tyler from '../../public/images/4a-2/Tyler.jpg';
-import Zehra from '../../public/images/4a-2/Zehra.jpg';
-
-// class 4c-1
-import Baturay from '../../public/images/4c-1/Baturay.jpg';
-import Abdelhakim from '../../public/images/4c-1/Abdelhakim.jpg';
-import Elsie from '../../public/images/4c-1/Elsie.jpg';
-import Efekan from '../../public/images/4c-1/Efekan.jpg';
-import EmmaK from '../../public/images/4c-1/Emma-K.jpg';
-import Emilia from '../../public/images/4c-1/Emilia.jpg';
-import EmmaR from '../../public/images/4c-1/Emma-R.jpg';
-import Fabio from '../../public/images/4c-1/Fabio.jpg';
-import Finn from '../../public/images/4c-1/Finn.jpg';
-
-// class 4c-2
-import Gülvera from '../../public/images/4c-2/Gülvera.jpg';
-import Hazar from '../../public/images/4c-2/Hazar.jpg';
-import Hira_Nur from '../../public/images/4c-2/Hira_Nur.jpg';
-import Jolina from '../../public/images/4c-2/Jolina.jpg';
-import Julie from '../../public/images/4c-2/Julie.jpg';
-import Kerem from '../../public/images/4c-2/Kerem.jpg';
-import Lara from '../../public/images/4c-2/Lara.jpg';
-import Leila from '../../public/images/4c-2/Leila.jpg';
-import Lukas from '../../public/images/4c-2/Lukas.jpg';
-
-// class 4c-3
-import Manhal from '../../public/images/4c-3/Manhal.jpg';
-import Marlon from '../../public/images/4c-3/Marlon.jpg';
-import Melih from '../../public/images/4c-3/Melih.jpg';
-import Mert from '../../public/images/4c-3/Mert.jpg';
-import Miray from '../../public/images/4c-3/Miray.jpg';
-import Nora from '../../public/images/4c-3/Nora.jpg';
-import Öykü from '../../public/images/4c-3/Öykü.jpg';
-import Sophia from '../../public/images/4c-3/Sophia.jpg';
+// class 4c
+import Baturay from '../../public/images/4c/Baturay.jpg';
+import Abdelhakim from '../../public/images/4c/Abdelhakim.jpg';
+import Elsie from '../../public/images/4c/Elsie.jpg';
+import Efekan from '../../public/images/4c/Efekan.jpg';
+import EmmaK from '../../public/images/4c/Emma-K.jpg';
+import Emilia from '../../public/images/4c/Emilia.jpg';
+import EmmaR from '../../public/images/4c/Emma-R.jpg';
+import Fabio from '../../public/images/4c/Fabio.jpg';
+import Finn from '../../public/images/4c/Finn.jpg';
+import Gülvera from '../../public/images/4c/Gülvera.jpg';
+import Hazar from '../../public/images/4c/Hazar.jpg';
+import Hira_Nur from '../../public/images/4c/Hira_Nur.jpg';
+import Jolina from '../../public/images/4c/Jolina.jpg';
+import Julie from '../../public/images/4c/Julie.jpg';
+import Kerem from '../../public/images/4c/Kerem.jpg';
+import Lara from '../../public/images/4c/Lara.jpg';
+import Leila from '../../public/images/4c/Leila.jpg';
+import Lukas from '../../public/images/4c/Lukas.jpg';
+import Manhal from '../../public/images/4c/Manhal.jpg';
+import Marlon from '../../public/images/4c/Marlon.jpg';
+import Melih from '../../public/images/4c/Melih.jpg';
+import Mert from '../../public/images/4c/Mert.jpg';
+import Miray from '../../public/images/4c/Miray.jpg';
+import Nora from '../../public/images/4c/Nora.jpg';
+import Öykü from '../../public/images/4c/Öykü.jpg';
+import Sophia from '../../public/images/4c/Sophia.jpg';
 
 interface Students {
   name: string;
@@ -74,7 +68,7 @@ interface ClassData {
 
 export const data: ClassData[] = [
   {
-    class: '4a-1',
+    class: '4a',
     students: [
       {
         name: 'Amy',
@@ -128,7 +122,7 @@ export const data: ClassData[] = [
         name: 'Lamia',
         studentId: '9',
         artPiece: LamiaArt,
-        audio: '/audio/4a-1/lamia-4a.mp3',
+        audio: '/audio/4a/lamia-4a.mp3',
       },
       {
         name: 'Masen',
@@ -136,11 +130,6 @@ export const data: ClassData[] = [
         artPiece: MasenArt,
         audio: 'www.audio.com',
       },
-    ],
-  },
-  {
-    class: '4a-2',
-    students: [
       {
         name: 'Milan',
         studentId: '11',
@@ -216,7 +205,7 @@ export const data: ClassData[] = [
     ],
   },
   {
-    class: '4c-1',
+    class: '4c',
     students: [
       {
         name: 'Abdelhakim',
@@ -264,7 +253,7 @@ export const data: ClassData[] = [
         name: 'Fabio',
         studentId: '30',
         artPiece: Fabio,
-        audio: '/audio/4c-1/fabio4c.mp3',
+        audio: '/audio/4c/fabio4c.mp3',
       },
       {
         name: 'Finn',
@@ -272,11 +261,6 @@ export const data: ClassData[] = [
         artPiece: Finn,
         audio: 'www.mia-audio.com',
       },
-    ],
-  },
-  {
-    class: '4c-2',
-    students: [
       {
         name: 'Gülvera',
         studentId: '32',
@@ -299,7 +283,7 @@ export const data: ClassData[] = [
         name: 'Jolina',
         studentId: '35',
         artPiece: Jolina,
-        audio: '/audio/4c-2/Joline4c.mp3'
+        audio: '/audio/4c/Joline4c.mp3'
       },
       {
         name: 'Julie',
@@ -331,11 +315,6 @@ export const data: ClassData[] = [
         artPiece: Lukas,
         audio: 'www.mia-audio.com'
       },
-    ],
-  },
-  {
-    class: '4c-3',
-    students: [
       {
         name: 'Manhal',
         studentId: '41',

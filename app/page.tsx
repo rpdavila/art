@@ -1,9 +1,13 @@
-
-export default function Home() {
+import { data } from "./data/data"
+import ClassGrid from "./components/classGrid/classGrid"
+export default function ClassRoomList() {
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      
-      
-    </div>
-  );
+    <section className="flex flex-row row-span-3 justify-center items-center gap-4 min-h-screen">
+      {data.map((classData) => {
+        return (
+          <ClassGrid key={classData.class} classId={classData.class} />
+        )
+      })}
+    </section>
+  )
 }
