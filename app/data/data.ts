@@ -86,37 +86,37 @@ export const data: ClassData[] = [
         name: 'Catalin',
         studentId: '3',
         artPiece: CatalinArt,
-        audio: 'www.audio.com',
+        audio: '/audio/4a/Catalin.mp3',
       },
       {
         name: 'Daria',
         studentId: '4',
         artPiece: DariaArt,
-        audio: 'www.audio.com',
+        audio: '/audio/4a/Daria.mp3',
       },
       {
         name: 'David',
         studentId: '5',
         artPiece: DavidArt,
-        audio: 'www.audio.com',
+        audio: '/audio/4a/David.mp3',
       },
       {
         name: 'Diana',
         studentId: '6',
         artPiece: DianaArt,
-        audio: 'www.audio.com',
+        audio: '/audio/4a/Diana.mp3',
       },
       {
         name: 'Enam',
         studentId: '7',
         artPiece: EnamArt,
-        audio: 'www.audio.com',
+        audio: '/audio/4a/Enam.mp3',
       },
       {
         name: 'Khalid',
         studentId: '8',
         artPiece: KhalidArt,
-        audio: 'www.audio.com',
+        audio: '/audio/4a/Khalid.mp3',
       },
       {
         name: 'Lamia',
@@ -128,13 +128,13 @@ export const data: ClassData[] = [
         name: 'Masen',
         studentId: '10',
         artPiece: MasenArt,
-        audio: 'www.audio.com',
+        audio: '/audio/4a/Masen.mp3',
       },
       {
         name: 'Milan',
         studentId: '11',
         artPiece: Milan,
-        audio: 'www.olivia-audio.com',
+        audio: '/audio/4a/Milan.mp3',
       },
       {
         name: 'Milana',
@@ -152,19 +152,19 @@ export const data: ClassData[] = [
         name: 'Miriam',
         studentId: '14',
         artPiece: Miriam,
-        audio: 'www.ethan-audio.com',
+        audio: '/audio/4a/Miriam.mp3',
       },
       {
         name: 'Mustafa',
         studentId: '15',
         artPiece: Mustafa,
-        audio: 'www.isabella-audio.com',
+        audio: '/audio/4/Mustafa.mp3',
       },
       {
         name: 'Nele',
         studentId: '16',
         artPiece: Nele,
-        audio: 'www.mia-audio.com',
+        audio: '/audio/4a/Nele.mp3',
       },
       {
         name: 'Noah',
@@ -176,31 +176,31 @@ export const data: ClassData[] = [
         name: 'Reyana',
         studentId: '18',
         artPiece: Reyana,
-        audio: 'www.mia-audio.com',
+        audio: '/audio/4a/Reyana.mp3',
       },
       {
         name: 'Sebastian',
         studentId: '19',
         artPiece: Sebastian,
-        audio: 'www.mason-audio.com',
+        audio: '/audio/4a/Sebastian.mp3',
       },
       {
         name: 'Sofia',
         studentId: '20',
         artPiece: Sofia,
-        audio: 'www.mia-audio.com',
+        audio: '/audio/4a/Sofia.mp3',
       },
       {
         name: 'Tyler',
         studentId: '21',
         artPiece: Tyler,
-        audio: 'www.mia-audio.com',
+        audio: '/audio/4a/Tyler.mp3',
       },
       {
         name: 'Zehra',
         studentId: '22',
         artPiece: Zehra,
-        audio: 'www.mia-audio.com',
+        audio: '/audio/4a/Zehra.mp3',
       }
     ],
   },
@@ -211,13 +211,13 @@ export const data: ClassData[] = [
         name: 'Abdelhakim',
         studentId: '23',
         artPiece: Abdelhakim,
-        audio: 'www.mia-audio.com',
+        audio: '/audio/4c/Abdelhakim.mp3',
       },
       {
         name: 'Baturay',
         studentId: '24',
         artPiece: Baturay,
-        audio: 'www.mason-audio.com',
+        audio: '/audio/4c/Baturay.mp3',
       },
       {
         name: 'Efekan',
@@ -229,25 +229,25 @@ export const data: ClassData[] = [
         name: 'Elsie',
         studentId: '26',
         artPiece: Elsie,
-        audio: '/audio/4c-1/Elsie4c.mp3',
+        audio: '/audio/4c/Elsie.mp3',
       },
       {
         name: 'Emilia',
         studentId: '27',
         artPiece: Emilia,
-        audio: 'www.mia-audio.com',
+        audio: '/audio/4c/Emilia.mp3',
       },
       {
         name: 'Emma K',
         studentId: '28',
         artPiece: EmmaK,
-        audio: 'www.mason-audio.com',
+        audio: '/audio/4c/Emma_K.mp3',
       },
       {
         name: 'Emma R',
         studentId: '29',
         artPiece: EmmaR,
-        audio: 'www.mia-audio.com',
+        audio: '/audio/4c/Emma_R.mp3',
       },
       {
         name: 'Fabio',
@@ -259,19 +259,19 @@ export const data: ClassData[] = [
         name: 'Finn',
         studentId: '31',
         artPiece: Finn,
-        audio: 'www.mia-audio.com',
+        audio: '/audio/4c/Finn.mp3',
       },
       {
         name: 'Gülvera',
         studentId: '32',
         artPiece: Gülvera,
-        audio: 'www.mia-audio.com'
+        audio: '/audio/4c/Gülvera.mp3'
       },
       {
         name: 'Hazar',
         studentId: '33',
         artPiece: Hazar,
-        audio: 'www.mason-audio.com'
+        audio: '/audio/4c/Hazar.mp3'
       },
       {
         name: 'Hira Nur',
@@ -283,43 +283,43 @@ export const data: ClassData[] = [
         name: 'Jolina',
         studentId: '35',
         artPiece: Jolina,
-        audio: '/audio/4c/Joline4c.mp3'
+        audio: '/audio/4c/Jolina.mp3'
       },
       {
         name: 'Julie',
         studentId: '36',
         artPiece: Julie,
-        audio: 'www.mia-audio.com'
+        audio: '/audio/4c/Julie.mp3'
       },
       {
         name: 'Kerem',
         studentId: '37',
         artPiece: Kerem,
-        audio: 'www.mason-audio.com'
+        audio: '/audio/4c/Kerem.mp3'
       },
       {
         name: 'Lara',
         studentId: '38',
         artPiece: Lara,
-        audio: 'www.mia-audio.com'
+        audio: '/audio/4c/Lara.mp3'
       },
       {
         name: 'Leila',
         studentId: '39',
         artPiece: Leila,
-        audio: 'www.mason-audio.com'
+        audio: '/audio/4c/Leila.mp3'
       },
       {
         name: 'Lukas',
         studentId: '40',
         artPiece: Lukas,
-        audio: 'www.mia-audio.com'
+        audio: '/audio/4c/Lukas.mp3'
       },
       {
         name: 'Manhal',
         studentId: '41',
         artPiece: Manhal,
-        audio: 'www.mia-audio.com'
+        audio: '/audio/4c/Manhal.mp3'
       },
       {
         name: 'Marlon',
@@ -337,13 +337,13 @@ export const data: ClassData[] = [
         name: 'Mert',
         studentId: '44',
         artPiece: Mert,
-        audio: 'www.mason-audio.com'
+        audio: '/audio/4c/Mert.mp3'
       },
       {
         name: 'Miray',
         studentId: '45',
         artPiece: Miray,
-        audio: 'www.mia-audio.com'
+        audio: '/audio/4c/Miray.mp3'
       },
       {
         name: 'Nora',
