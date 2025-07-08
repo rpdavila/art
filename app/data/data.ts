@@ -74,13 +74,13 @@ export const data: ClassData[] = [
         name: 'Amy',
         studentId: '1',
         artPiece: AmyArt,
-        audio: 'www.audio.com',
+        audio: '/audio/4a/amy.mp3',
       },
       {
         name: 'Arian',
         studentId: '2',
         artPiece: ArianArt,
-        audio: 'www.audio.com',
+        audio: '/audio/4a/arian.mp3',
       },
       {
         name: 'Catalin',
